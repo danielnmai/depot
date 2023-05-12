@@ -28,6 +28,8 @@ gem 'jbuilder', '~> 2.7'
 # GraphQL
 gem 'graphql'
 
+gem 'bcrypt', '~> 3.1.13'
+
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.4', require: false
 
