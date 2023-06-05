@@ -29,7 +29,7 @@ gem 'jbuilder', '~> 2.7'
 gem 'graphql'
 
 # Postgresql
-gem 'pg'
+gem 'pg', '~> 1.1'
 
 gem 'bcrypt', '~> 3.1.13'
 
