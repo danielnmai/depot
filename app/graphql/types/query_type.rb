@@ -10,8 +10,14 @@ module Types
       argument :id, ID
     end
 
+    field :products, [ProductType], 'Find all products', null: true
+
     def product(id:)
       Product.find(id)
+    end
+
+    def products
+      Product.all
     end
   end
 end
