@@ -1,6 +1,9 @@
 {
   "name": "depot",
-  "private": true,
+  "private": false,
+  "scripts": {
+    "release": "semantic-release"
+  },
   "dependencies": {
     "@rails/actioncable": "^6.0.0",
     "@rails/activestorage": "^6.0.0",
@@ -12,6 +15,9 @@
   },
   "version": "0.1.0",
   "devDependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "semantic-release-rubygem": "^1.2.0",
     "webpack-dev-server": "^3"
   }
 }
