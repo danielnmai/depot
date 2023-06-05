@@ -11,9 +11,6 @@ jobs:
       - uses: actions/setup-node@v2
         with:
           node-version: "14"
-      - uses: actions/setup-ruby@v1.1.3
-        with:
-          ruby-version: "2.6"
       - name: run semantic release
         run: npm install && npm run release
         env:
