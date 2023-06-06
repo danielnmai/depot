@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/danielnmai/depot/compare/v1.2.0...v1.3.0) (2023-06-06)
+
+
+### Features
+
+* update README and change model message ([f49e183](https://github.com/danielnmai/depot/commit/f49e1833a4f151bb39363d60066013b782735f41))
+
 # [1.2.0](https://github.com/danielnmai/depot/compare/v1.1.1...v1.2.0) (2023-06-06)
 
 
