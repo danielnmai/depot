@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/danielnmai/depot/compare/v1.3.0...v1.3.1) (2023-06-06)
+
+
+### Bug Fixes
+
+* i do a patch release ([462ad78](https://github.com/danielnmai/depot/commit/462ad782466e41abc379e4b2c94fed8140f01103))
+
 # [1.3.0](https://github.com/danielnmai/depot/compare/v1.2.0...v1.3.0) (2023-06-06)
 
 
