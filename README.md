@@ -24,6 +24,7 @@ Things you may want to cover:
 * ...
 
 * this is a big change
+* this should be a minor release
 
 
 MAJOR.MINOR.PATCH
