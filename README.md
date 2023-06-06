@@ -25,6 +25,7 @@ Things you may want to cover:
 
 * this is a big change
 * this should be a minor release
+* this should go through with a PR
 
 
 MAJOR.MINOR.PATCH
