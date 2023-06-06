@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/danielnmai/depot/compare/v1.1.1...v1.2.0) (2023-06-06)
+
+
+### Features
+
+* omg I did something amazing ([d87a460](https://github.com/danielnmai/depot/commit/d87a4607c196121113a4c8ee5370667d33116d17))
+
 ## [1.1.1](https://github.com/danielnmai/depot/compare/v1.1.0...v1.1.1) (2023-06-06)
 
 
