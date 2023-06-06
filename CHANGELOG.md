@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/danielnmai/depot/compare/v1.0.0...v1.1.0) (2023-06-06)
+
+
+### Features
+
+* update README ([937dfb9](https://github.com/danielnmai/depot/commit/937dfb9ad0036c6e0effe9f2f812e102330b88cd))
+
 # 1.0.0 (2023-06-06)
 
 
