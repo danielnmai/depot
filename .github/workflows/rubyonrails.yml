@@ -16,4 +16,4 @@ jobs:
       - name: run semantic release
         run: yarn release
         env:
-          GITHUB_TOKEN: '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'
+          GITHUB_TOKEN: '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'
