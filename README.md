@@ -24,3 +24,6 @@ Things you may want to cover:
 * ...
 
 * this is a big change
+
+
+MAJOR.MINOR.PATCH
