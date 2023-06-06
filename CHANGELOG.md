@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/danielnmai/depot/compare/v1.1.0...v1.1.1) (2023-06-06)
+
+
+### Bug Fixes
+
+* add gh token ([dd8556c](https://github.com/danielnmai/depot/commit/dd8556cdda55a0e99a4a1469412baab88b8be2ad))
+
 # [1.1.0](https://github.com/danielnmai/depot/compare/v1.0.0...v1.1.0) (2023-06-06)
 
 
