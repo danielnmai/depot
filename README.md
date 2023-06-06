@@ -26,3 +26,4 @@ Things you may want to cover:
 * Something here
 * I did this
 * Another minor fix
+* Another change
